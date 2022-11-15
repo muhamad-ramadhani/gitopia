@@ -15,6 +15,9 @@
 | Penyimpanan  | 100GB HDD |
 | Koneksi | 100 Mbit/s |
 
+Explorer
+> https://explorer.gitopia.com/
+
 ## 1. Install otomatis
 ```
 wget -O gitopia.sh https://raw.githubusercontent.com/muhamad-ramadhani/gitopia/main/gitopia.sh && chmod +x gitopia.sh && ./gitopia.sh
