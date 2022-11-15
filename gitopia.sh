@@ -14,7 +14,7 @@ echo -e "\e[0m"
 
 echo "+++++++++++++++++++++++++++++++++++++++++++++++++++++" 
 
-echo -e '\e[33mTitle :\e[35m' Aleo Prover Testnet
+echo -e '\e[33mTitle :\e[35m' Gitopia Testnet
 echo -e '\e[33mAuthor :\e[35m' Rama x PemulungAirdropID
 echo -e '\e[33mTelegram Channel :\e[35m' https://t.me/PemulungAirdropID
 echo -e '\e[33mTelegram Group :\e[35m' https://t.me/DiskusiPemulungAirdrop
